@@ -1,4 +1,4 @@
-&cWelcome to the Pre-Alpha of
-&cProject Z! If you find any bugs
-&cplease report it on our discord.
-&chttps://discord.gg/qG7R8Aw
+Welcome to the Pre-Alpha of
+Project Z! If you find any bugs
+please report it on our discord.
+https://discord.gg/qG7R8Aw
